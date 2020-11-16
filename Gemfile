@@ -58,3 +58,5 @@ gem 'devise', '~> 4.7', '>= 4.7.3'
 gem 'bootstrap', '~> 4.5', '>= 4.5.2'
 
 gem 'jquery-rails', '~> 4.4'
+
+gem 'gritter', '~> 1.2'

@@ -9,6 +9,7 @@ require("@rails/activestorage").start()
 require("channels")
 require('jquery')
 require ('jquery-ui')
+require("gritter/js/jquery.gritter.js")
 
 import "bootstrap";
 import "../stylesheets/application"
